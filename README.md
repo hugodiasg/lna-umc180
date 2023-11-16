@@ -1,5 +1,5 @@
 # lna-umc180
-Low Noise Amplifier (LNA) with degeneration inductor to 5.1 - 5.35 GHz band in UMC 180nm. The IC has taped out on 
+Low Noise Amplifier (LNA) with degeneration inductor to 5.1 - 5.35 GHz band in UMC 180nm. The IC has taped out on [tapeout-2023p2-umc180](https://github.com/hugodiasg/tapeout-2023p2-umc180).
 
 ## Specs
 Parameter   | Value
